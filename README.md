@@ -28,7 +28,7 @@ The requirements and coverage percentage for this form are as follows:
 * Receives: 50% coverage if household income (HHI) is between $20,000 and  $50,000
 * Receives: Add an additional 10% if a single-parent household
 
-For the purpose of this interview, I'm one of the junior developers. Please guide me through the process of adding the new feature. You aren't expected to live code during the interview. Insteand, the “junior” developer will be writing all the code and you'll be guiding them. You're also not expected to and won't be graded on fully implementing the feature during the interview time.  
+For the purpose of this interview, I'm one of the junior developers. Please guide me through the process of adding the new feature. You aren't expected to live code during the interview. Instead, the “junior” developer will be writing all the code and you'll be guiding them. You're also not expected to and won't be graded on fully implementing the feature during the interview time.  
 
 ## Project setup
 ```
